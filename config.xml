@@ -3,7 +3,7 @@
   <name>MEW</name>
   <description>MyEtherWallet</description>
   <author email="aliboba@free.fr" href="http://www.myetherwallet.com">MEW Team</author>
-  <preference name="phonegap-version" value="cli-6.4.0" />
+  <preference name="phonegap-version" value="cli-6.5.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
   <preference name="target-device" value="universal" />
